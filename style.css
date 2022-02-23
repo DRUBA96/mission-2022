@@ -72,28 +72,26 @@ p{
 }
 .develop-banner {
     background-image: url(images/shapes/shape-1.png);
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 200px;
     margin-bottom: 100px;
 }
 .community-banner {
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: right bottom;
     background-size: 200px;
+    background-position: right bottom;
     margin-bottom: 80px;
 }
-/*about-me  */ 
-.about-me{
-    margin-bottom: 80px;
-}
-/* Contact -area */ 
+
+/* Contact-area */ 
 footer {
     text-align: center;
     background-color: rgb(22, 24, 19);
-    color: #fff;
     padding: 20px 0;
+    color: #fff;
+    
 }
 .contact-me{
     text-align: center;
