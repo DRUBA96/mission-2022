@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+.orange{
+    color: orange;
+}
+.first-sec{
+    display: flex;
+}
+.first-img img{
+    width: 40%;
+    margin-left: 20%;
+}
