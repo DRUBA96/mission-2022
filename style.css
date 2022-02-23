@@ -1,6 +1,6 @@
 body{
-    font-family: 'Open Sans', sans-serif;
     margin : 0 ;
+    font-family: 'Open Sans', sans-serif;
 }
 .heading{
     padding-left: 10px;
@@ -50,7 +50,7 @@ p{
     border-radius: 5%;
     padding: 20px 10px 0 20px;
 }
-.mission-item p , footer p , .develop p{
+.mission-item p ,footer p , .develop p{
     margin-top: 0;
 }
 .mission-item img{
@@ -96,8 +96,8 @@ footer {
 .contact-me{
     text-align: center;
     margin:0  20% 70px 20%;
-    border-radius: 5%;
     padding: 20px 10px 0 20px;
+    border-radius: 5%;
     background-color: #e2dada;
 }
 .submit{
